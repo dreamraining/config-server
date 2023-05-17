@@ -1,2 +1,5 @@
 employee:
   title: hello world
+
+db:
+  password: '{cipher}6e028dfc2bc8200fb918647d15731dd46bfbaad07f5a0620fb6abdd4fbae994e'
